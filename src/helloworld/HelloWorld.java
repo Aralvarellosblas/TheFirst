@@ -10,7 +10,9 @@ public class HelloWorld {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        String texto = "I am the Doctor";
         System.out.println("Hello World");  //Show Hello World on screen
+        System.out.println(texto);
     }
     
     
